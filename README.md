@@ -173,7 +173,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Autor
 
-Seu Nome - [Seu Email](mailto:seuemail@example.com)
+Bruno Couto - [brunocoutoengenheirodesoftware@gmail.com](mailto:brunocoutoengenheirodesoftware@gmail.com)
 
 ---
 
